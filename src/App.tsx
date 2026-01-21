@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence, useAnimation } from 'framer-motion';
 
-// --- 常量与工具函数 (保持原有逻辑) ---
+// --- 常量与工具函数 (保持原有逻辑) --
 const R2_BASE = 'https://pub-4b0391c7b46a443783ccc235ddeb1669.r2.dev';
 const API_URL = 'https://patient-silence-131f.tokio-fb6.workers.dev';
 
